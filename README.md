@@ -2,8 +2,8 @@
 
 ## What does the program do? ##
 
-	This project called Application Station, predictable by it’s name, 
-  involves a game known as SoS (basically tic-tac-toe), a calculator and a restaurant management system. 
+This project called Application Station, predictable by it’s name, 
+involves a game known as SoS (basically tic-tac-toe), a calculator and a restaurant management system. 
 **The description is only about the SoS Game, later I included the other two apps to this project**
   
   When I got to know about this project 
@@ -30,10 +30,14 @@
 The requirement for this project was to demonstrate my knowledge of the topics we learned in CSE 110 - Programming with Java.
 The topics we discussed were Primitive Data Types, Classes and Methods, conditionals, loops and arrays. 
 I tried my best to use them all. Also, I had to self learn a lot as I used GUI which is not in the topics discussed in the class.		
+
 • The Basics and Primitive Data Types: Obviously, my java program consists items such as print statements and all kinds of data types including strings, integers, and more. 
+
 • Instance Variables and objects: I used instance variables in my Login_Systems class such as username and password. I used objects such as btn1,btn2.. , frmSos in the main class(Sos_Gui).
+
 • Classes and methods: No code would be called “organised code” if we don’t use different classes and methods.
 The project consists of two classes named Sos_Gui and Login_Systems. It has nine methods with the major part of code written in initialize() method.
+
 • Conditionals: My whole project mainly relies on if-else conditional statements. For example, to display error message when the user’s entered details do not match account details, if-else statement is must.
 
 ---
